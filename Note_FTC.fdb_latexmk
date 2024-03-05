@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1709612406 "/Users/connorli/Documents/GitHub/astrabitlecture/Note_FTC.tex" "Note_FTC.pdf" "Note_FTC" 1709612406 0
-  "/Users/connorli/Documents/GitHub/astrabitlecture/Note_FTC.tex" 1709612405 1376 5fe180225796d488028e92f280792e0b ""
+["pdflatex"] 1709616166 "/Users/connorli/Documents/GitHub/astrabitlecture/Note_FTC.tex" "Note_FTC.pdf" "Note_FTC" 1709616167 0
+  "/Users/connorli/Documents/GitHub/astrabitlecture/Note_FTC.tex" 1709616166 1958 d17bbf3cb2e4b255c04e042571b91f81 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm0800.tfm" 1136768653 1536 05df9db6aeccc4eea94fec15c9024f79 ""
@@ -222,10 +222,10 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1705206871 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1705206848 7883458 f6e9493ae836a2efb38410cc398d6a8b ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "Note_FTC.aux" 1709612406 698 ea8fd12a302c87acd739039d12995a77 "pdflatex"
-  "Note_FTC.out" 1709612406 103 9814c2d956916adb9290eca4e25c967a "pdflatex"
-  "Note_FTC.tex" 1709612405 1376 5fe180225796d488028e92f280792e0b ""
-  "Note_FTC.toc" 1709612406 68 67461dc3484237a0a884eed17df73836 "pdflatex"
+  "Note_FTC.aux" 1709616167 1527 921cb69d6d2b5f715e718daa0e7cefae "pdflatex"
+  "Note_FTC.out" 1709616167 1091 4fd49304e2e38b4bb6c1ff81a6a7910b "pdflatex"
+  "Note_FTC.tex" 1709616166 1958 d17bbf3cb2e4b255c04e042571b91f81 ""
+  "Note_FTC.toc" 1709616167 610 4efad59b392b2e3d6a85efcf3eb9dc51 "pdflatex"
   (generated)
   "Note_FTC.aux"
   "Note_FTC.log"
